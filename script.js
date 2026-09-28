@@ -1,5 +1,5 @@
 // Replace this placeholder with Saint's real Discord installation URL after deployment.
-const INVITE_URL = "#";
+const INVITE_URL = "https://discord.com/oauth2/authorize?client_id=1553785807343591595";
 
 ["inviteBtn","inviteHero","inviteCta"].forEach(id=>{
   const el=document.getElementById(id);
